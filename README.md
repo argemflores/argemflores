@@ -1,9 +1,26 @@
-## Hi! I'm Argem! 🧑🏻
+# Hi! I'm Argem 🧑🏻
 
-[<img alt="argemflores | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="argemflores | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="argemflores | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+🏢 I'm a senior engineer at an not-for-profit organization in the Philippines. My primary job is in the back-end: database, API, migration, and testing.
 
-[linkedin]: http://linkedin.com/in/argemflores
-[instagram]: http://instagram.com/argemflores
-[twitter]: http://twitter.com/argemflores
+🏠 I like to explore new stuff, especially in software development, personal productivity, and gaming.
+
+📖 I'm currently learning Python, Spanish, and piano.
+
+## Experiences
+
+🌱 Senior engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
+
+🌾 Web developer for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
+
+🌦 Programmer at [IRRI](https://irri.org)
+
+🦟 Web developer at [DOST-PCHRD](https://pchrd.dost.gov.ph)
+
+🏥 Web developer at [UPM-NTHC](https://telehealth.ph)
+
+## Socials
+
+[<img alt="argemflores | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/argemflores)
+[<img alt="argemflores | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](http://github.com/argemflores)
+[<img alt="argemflores | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/argemflores)
+[<img alt="argemflores | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/argemflores)
