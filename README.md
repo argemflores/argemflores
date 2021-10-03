@@ -1,12 +1,12 @@
 # Hi! I'm Argem 🧑🏻
 
-> `Under construction 🚧`
+`Under construction 🚧`
 
 🏢 I'm a senior engineer at a not-for-profit organization in the Philippines. My primary job is in back-end development: database, API, migration, and testing.
 
 🏠 I like to explore new stuff, especially in software development, personal productivity, and gaming.
 
-📖 I'm currently learning Python, Spanish, and piano.
+📖 I'm currently learning Python, Spanish, and piano, and playing Octopath Traveler and Undertale.
 
 ## Experiences
 
