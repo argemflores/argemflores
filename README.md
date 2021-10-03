@@ -1,6 +1,8 @@
 # Hi! I'm Argem 🧑🏻
 
-🏢 I'm a senior engineer at an not-for-profit organization in the Philippines. My primary job is in the back-end: database, API, migration, and testing.
+> `Under construction 🚧`
+
+🏢 I'm a senior engineer at a not-for-profit organization in the Philippines. My primary job is in back-end development: database, API, migration, and testing.
 
 🏠 I like to explore new stuff, especially in software development, personal productivity, and gaming.
 
