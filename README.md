@@ -2,7 +2,7 @@
 
 `Under construction 🚧`
 
-🏢 I'm a senior engineer at a not-for-profit organization in the Philippines. My primary job is in back-end development: database, API, migration, and testing.
+🏢 I'm a senior engineer at a not-for-profit organization in the Philippines. My primary job is in back-end development.
 
 🏠 I like to explore new stuff, especially in software development, personal productivity, and gaming.
 
@@ -10,7 +10,11 @@
 
 ## Experiences
 
+### Current
+
 🌱 Senior engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
+
+### Past
 
 🌾 Web developer for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
 
