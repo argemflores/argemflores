@@ -2,17 +2,17 @@
 
 `Profile under construction 🚧`
 
-🏢 I'm a senior engineer at a non-profit organization in the Philippines. My primary job is in back-end development.
+🏢 I'm a senior software engineer with focus on back-end development: databases, testing, and API.
 
-🏠 I like to explore new stuff, especially in software development, personal productivity, and gaming.
+🏠 I like to explore new stuff, especially in information technology, productivity, and gaming.
 
 📖 I'm currently learning Python, Spanish, and piano, and playing Octopath Traveler and Undertale.
 
 ## Experiences
 
-### Current
+### Present
 
-🌱 Senior engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
+🌱 Senior software engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
 
 ### Past
 
