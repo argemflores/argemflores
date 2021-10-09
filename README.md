@@ -24,7 +24,7 @@
 
 🏥 Web developer at [UPM-NTHC](https://telehealth.ph)
 
-## Socials
+## Networks
 
 [<img alt="argemflores | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LI] [linkedin.com/in/argemflores][LI]
 
