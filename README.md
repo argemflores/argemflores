@@ -6,15 +6,11 @@
 
 🏠 I like to explore new stuff, especially in information technology, productivity, and gaming.
 
-📖 I'm currently learning Python, Spanish, and piano, and playing Octopath Traveler and Undertale.
+📖 I'm currently learning Node.js and Spanish, and playing Octopath Traveler and Undertale.
 
 ## Experiences
 
-### Present
-
-🌱 Senior software engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
-
-### Past
+🌱 Senior software engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org) (present)
 
 🌾 Web developer for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
 
