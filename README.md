@@ -1,24 +1,20 @@
 # Hi! I'm Argem 🧑🏻
 
-`Profile under construction 🚧`
+🏢 I'm a senior software engineer focusing on back-end development: databases, testing, and API.
 
-🏢 I'm a senior software engineer with focus on back-end development: databases, testing, and API.
+🏠 I like to explore stuff, especially in IT, productivity, gaming, and the arts.
 
-🏠 I like to explore new stuff, especially in information technology, productivity, and gaming.
+📖 I'm currently learning AWS and French, while playing ElecHead and LoR on my pasttime.
 
-📖 I'm currently learning Node.js and Spanish, and playing Octopath Traveler and Undertale.
+## Experience
 
-## Experiences
+🌾 Software project manager for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org) (present)
 
-🌱 Senior software engineer for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org) (present)
+🗂 Data management lead for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
 
-🌾 Web developer for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
+🏗 Web developer/programmer for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
 
-🌦 Programmer at [IRRI](https://irri.org)
-
-🦟 Web developer at [DOST-PCHRD](https://pchrd.dost.gov.ph)
-
-🏥 Web developer at [UPM-NTHC](https://telehealth.ph)
+🏥 Web developer at [UPM-NTHC](https://telehealth.ph) and [DOST-PCHRD](https://pchrd.dost.gov.ph)
 
 ## Networks
 
