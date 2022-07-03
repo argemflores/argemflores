@@ -1,10 +1,12 @@
 # Hi! I'm Argem 🧑🏻
 
-🏢 I'm a senior software engineer focusing on back-end development: databases, testing, and API.
+🏢 A senior software engineer with focus on back-end development: databases, testing, and API.
 
-🏠 I like to explore stuff, especially in IT, productivity, gaming, and the arts.
+📖 Learning Python, AWS, and French, while reading books and consuming online content on productivity.
 
-📖 I'm currently learning AWS and French, while playing ElecHead and LoR on my pasttime.
+🎮 A casual gamer currently playing ElecHead, LoR, and some random adventure/puzzle/platformer Switch games.
+
+📺 Chilling on my free time with Netflix and YouTube, mostly watching sci-fi, reality, and documentary series.
 
 ## Experience
 
