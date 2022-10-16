@@ -1,16 +1,18 @@
 # Hi! I'm Argem 🧑🏻
 
-🏢 A senior software engineer with focus on back-end development: databases, testing, and API.
+🏢 [Breeding Analytics lead](https://www.linkedin.com/in/argemflores/) with focus on back-end development: databases, testing, and API.
 
-📖 Learning Python, AWS, and French, while reading books and consuming online content on productivity.
+📖 Learning [Data Science](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/), [AWS](https://learn.acloud.guru/learning-path/aws-developer), and [French](https://www.duolingo.com/learn), while reading books and consuming online content on productivity.
 
-🎮 A casual gamer currently playing ElecHead, LoR, and some random adventure/puzzle/platformer Switch games.
+🎮 Casual gamer playing [Mario Rabbids](https://www.nintendo.com/store/products/mario-plus-rabbids-kingdom-battle-switch/), [Legends of Runeterra](https://playruneterra.com/), and random adventure/puzzle/platformer [Switch](https://www.nintendo.com/store/games/) games.
 
-📺 Chilling on my free time with Netflix and YouTube, mostly watching sci-fi, reality, and documentary series.
+📺 Spending my free time watching sci-fi, reality, and documentary shows on YouTube, Netflix, and Prime Video.
 
 ## Experience
 
-🌾 Software project manager for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org) (present)
+📊 Breeding Analytics lead for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org) (present)
+
+🖥 Software project manager for [EBS](https://ebs.excellenceinbreeding.org) at [IRRI](https://irri.org)
 
 🗂 Data management lead for [B4R](https://b4r.irri.org) at [IRRI](https://irri.org)
 
