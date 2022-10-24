@@ -1,6 +1,6 @@
 # Hi! I'm Argem 🧑🏻
 
-🏢 [Breeding Analytics lead](https://www.linkedin.com/in/argemflores/) with focus on back-end development: databases, testing, and API.
+🏢 [Breeding Analytics lead](https://www.linkedin.com/in/argemflores/) with focus on back-end development and project management.
 
 📖 Learning [Data Science](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/), [AWS](https://learn.acloud.guru/learning-path/aws-developer), and [French](https://www.duolingo.com/learn), while reading books and consuming online content on productivity.
 
