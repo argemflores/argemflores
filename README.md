@@ -1,12 +1,12 @@
 # Hi! I'm Argem 🧑🏻
 
-🏢 [Breeding Analytics IT lead](https://www.linkedin.com/in/argemflores/) and full-stack developer.
+💻 [Breeding Analytics IT lead](https://www.linkedin.com/in/argemflores/) and full-stack developer
 
-📖 Learning [Data Science](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/), [Korean and French](https://www.duolingo.com/learn) and reading [Stillness is the Key](https://dailystoic.com/stillness-is-the-key/) by Ryan Holiday.
+📖 Learning [AI](https://www.udemy.com/course/artificial-intelligence-az), [Korean and French](https://www.duolingo.com/learn), and reading [Feel Good Productivity](https://feelgoodproductivity.com/) by Ali Abdaal
 
-🎮 Playing [The Legend of Zelda: Tears of the Kingdom](https://www.zelda.com/tears-of-the-kingdom/), and other adventure/puzzle/platformer [Switch](https://www.nintendo.com/store/games/#p=1&sort=df&f=corePlatforms&corePlatforms=Nintendo+Switch) games.
+🎮 Playing [The Legend of Zelda: Tears of the Kingdom](https://www.zelda.com/tears-of-the-kingdom/), [Prince of Persia: The Lost Crown](https://www.ubisoft.com/en-sg/game/prince-of-persia/the-lost-crown), and other games on [Switch](https://www.nintendo.com/store/games/#p=1&sort=df&f=corePlatforms&corePlatforms=Nintendo+Switch)
 
-📺 Spending free time watching on YouTube and Netflix, and listening to [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) on Spotify and YouTube Music.
+📺 Spending free time watching on YouTube and Netflix, sketching with Procreate, and listening to [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR)
 
 ## Experience
 
